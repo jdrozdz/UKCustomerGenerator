@@ -1,0 +1,16 @@
+.badge.circled-badge {
+  border-radius: 50%;
+  height: 4.4vh;
+  line-height: 4.3vh;
+  font-size: 2vh;
+  font-weight: bold;
+  font-family: Roboto;
+}
+
+.nav-sub {
+  right: 6.55vw;
+  font-size: smaller;
+  top: 0.5vh;
+}
+
+/*# sourceMappingURL=app.component.css.map */
